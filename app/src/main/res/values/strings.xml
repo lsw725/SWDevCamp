@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SWDevCamp</string>
+    <string name="init_string">내  용</string>
 </resources>
